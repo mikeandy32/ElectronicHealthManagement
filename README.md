@@ -1,2 +1,12 @@
-# ElectronicHealthManagement
-This Java application streamlines patient data entry and storage, using XAMPP as the default local database (configurable for other systems). It offers a user-friendly interface and efficient data management, making it easy to adapt for various environments. Perfect for customizable patient information handling.
+# Patient Information Management Application  
+
+This Java-based application simplifies patient data entry and storage. It uses XAMPP as the default local database, but it can be configured to work with other database systems.  
+
+## Features  
+- User-friendly interface for managing patient information.  
+- Efficient data storage and retrieval for streamlined workflows.  
+- Flexible database configuration to suit different environments.  
+
+## Requirements  
+- Java JDK 8 or later  
+- XAMPP (or an alternative database system)  
